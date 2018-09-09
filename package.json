@@ -1,6 +1,6 @@
 {
-  "name": "web-float-log",
-  "version": "0.0.1",
+  "name": "web_floatlog",
+  "version": "0.0.2",
   "description": "web移动端日志面板，随时随地看日志",
   "main": "src/index.js",
   "scripts": {

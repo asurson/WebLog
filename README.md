@@ -1,4 +1,4 @@
-# Web-float-log
+# web_floatlog
 
 web移动端日志面板，随时随地看日志,
 
@@ -7,7 +7,9 @@ web移动端日志面板，随时随地看日志,
 特色
 
 ## 安装下载
-
+    - npm i web_floatlog
+    - https://github.com/asurson/WebLog/releases
+    - CDN https://unpkg.com/web_floatlog/src/index.js
 
 ## 快速使用
 
