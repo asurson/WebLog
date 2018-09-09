@@ -1,5 +1,5 @@
 {
-  "name": "weblog",
+  "name": "web-floatLog",
   "version": "0.0.1",
   "description": "web移动端日志面板，随时随地看日志",
   "main": "src/index.js",
