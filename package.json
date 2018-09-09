@@ -1,0 +1,26 @@
+{
+  "name": "weblog",
+  "version": "0.0.1",
+  "description": "web移动端日志面板，随时随地看日志",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asurson/WebLog.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "https://github.com/asurson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asurson/WebLog/issues"
+  },
+  "homepage": "https://github.com/asurson/WebLog#readme",
+  "devDependencies": {
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0"
+  }
+}
